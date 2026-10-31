@@ -1,6 +1,6 @@
-🐍 Python Crash Course – Exercises & Interactive Learning Hub
+# 🐍 Python Crash Course – Exercises & Interactive Learning Hub
 
-📖 About This Repository
+**📖 About This Repository**
 
 Welcome to my Python Crash Course Learning Journey!
 
@@ -12,7 +12,7 @@ This is an ongoing project. I'll continue adding new exercises, solutions, and i
 
 ---
 
-🚀 Project Features
+# 🚀 Project Features
 
 - ✅ Python Exercise Solutions
 - 📚 Chapter-wise Organization
@@ -25,9 +25,9 @@ This is an ongoing project. I'll continue adding new exercises, solutions, and i
 
 ---
 
-📚 Current Learning Progress
+# 📚 Current Learning Progress
 
-Chapter 2 – Variables and Simple Data Types
+**Chapter 2 – Variables and Simple Data Types**
 
 Exercise| Topic| Status
 2-1| Simple Message| ✅ Completed
@@ -40,7 +40,7 @@ Exercise| Topic| Status
 2-8| Number Eight| ✅ Completed
 2-9| Favorite Number| ✅ Completed
 
-Chapter 3 – Introducing Lists
+# Chapter 3 – Introducing Lists
 
 Exercise| Topic| Status
 3-1| Names| ✅ Completed
@@ -51,7 +51,7 @@ Exercise| Topic| Status
 3-6| More Guests| ✅ Completed
 3-7| Shrinking Guest List| ✅ Completed
 
-📊 Progress Summary
+# 📊 Progress Summary
 
 - Chapter 2: 9 Exercises Completed
 - Chapter 3: 7 Exercises Completed
@@ -61,11 +61,11 @@ More exercises will be added in the future! 🚀
 
 ---
 
-🖥️ Interactive Streamlit Learning Hub
+# 🖥️ Interactive Streamlit Learning Hub
 
-I've also created an interactive web application using Streamlit.
+** I've also created an interactive web application using Streamlit. **
 
-Features
+# Features
 
 - Sidebar Navigation: Select any exercise.
 - Question Display: Read the original exercise question.
@@ -76,7 +76,7 @@ Features
 
 ---
 
-🛠️ Technologies Used
+** 🛠️ Technologies Used **
 
 - Python – Programming language.
 - Streamlit – Interactive web application.
@@ -84,27 +84,27 @@ Features
 
 ---
 
-⚙️ Installation & Setup
+# ⚙️ Installation & Setup
 
-1. Clone the Repository
+**1. Clone the Repository**
 
-git clone https://github.com/YOUR-USERNAME/python-crash-course-exercises.git
+git clone https://github.com/daksh19234/python-crash-course-exercises.git
 
-2. Open the Project Folder
+**2. Open the Project Folder**
 
 cd python-crash-course-exercises
 
-3. Install Dependencies
+**3. Install Dependencies**
 
 pip install -r requirements.txt
 
-4. Run the Application
+**4. Run the Application** 
 
 streamlit run app.py
 
 ---
 
-📈 Future Plans
+# 📈 Future Plans
 
 This repository is continuously evolving.
 
@@ -119,7 +119,7 @@ I plan to add:
 
 ---
 
-🎯 My Goal
+# 🎯 My Goal
 
 My goal is to become proficient in Python by:
 
@@ -130,7 +130,7 @@ My goal is to become proficient in Python by:
 
 ---
 
-🔥 Learning in Public
+# 🔥 Learning in Public
 
 One Chapter at a Time.
 
